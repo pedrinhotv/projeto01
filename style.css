@@ -1,7 +1,4 @@
-* { 
-    margin: 0;
-    padding: 0;
-}
+
 
 :root {
 --branco-prioncipal:#FFFFFF;
@@ -13,6 +10,11 @@
 body { 
     background-color: var(--cor-de-fundo);
      color: var(--branco-prioncipal);
+}
+
+* { 
+    margin: 0;
+    padding: 0;
 }
 
 .principal {
